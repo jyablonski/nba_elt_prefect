@@ -1,0 +1,5 @@
+.env
+task_definitions/
+.aws/
+.dbt/
+dbt/dbt_packages/
