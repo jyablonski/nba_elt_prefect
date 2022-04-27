@@ -4,3 +4,4 @@ task_definitions/
 .dbt/
 dbt/dbt_packages/
 dbt/dbt_modules/
+.jacobs-makefile
