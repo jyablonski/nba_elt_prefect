@@ -3,3 +3,4 @@ task_definitions/
 .aws/
 .dbt/
 dbt/dbt_packages/
+dbt/dbt_modules/
